@@ -1,0 +1,10 @@
+{
+    "responses": {
+        "greeting": ["Hello!", "Hi there! How can I assist you today?"],
+        "symptoms": ["Thank you for sharing. Based on your symptoms, it's recommended to consult a healthcare professional."],
+        "diagnosis": ["Without more information, it's hard to say. It's best to consult a healthcare professional for an accurate diagnosis."],
+        "treatment": ["Treatment for [condition] varies depending on the severity and individual circumstances. It's recommended to consult a doctor for personalized advice."],
+        "medication": ["I'm not a doctor, but I can provide general information. It's crucial to consult a healthcare professional for medication advice tailored to your specific condition."],
+        "appointment": ["You can schedule an appointment by calling our clinic at [phone number] or using our online booking system on our website."]
+    }
+}

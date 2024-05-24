@@ -1,0 +1,10 @@
+{
+    "intents": [
+        {"tag": "greeting", "patterns": ["Hi", "Hello", "Hey"], "responses": ["Hello!", "Hi there!"]},
+        {"tag": "symptoms", "patterns": ["I'm feeling sick", "I have a headache"], "responses": ["What symptoms are you experiencing?", "Can you describe your symptoms?"]},
+        {"tag": "diagnosis", "patterns": ["What could be wrong with me?", "Possible diagnoses?"], "responses": ["Without more information, it's hard to say. It's best to consult a healthcare professional for an accurate diagnosis."]},
+        {"tag": "treatment", "patterns": ["How can I treat [condition]?", "What's the treatment for [condition]?"], "responses": ["Treatment for [condition] varies depending on the severity and individual circumstances. It's recommended to consult a doctor for personalized advice."]},
+        {"tag": "medication", "patterns": ["What medication should I take?", "Prescription medications?"], "responses": ["I'm not a doctor, but I can provide general information. It's crucial to consult a healthcare professional for medication advice tailored to your specific condition."]},
+        {"tag": "appointment", "patterns": ["How do I schedule an appointment?", "Can I book an appointment?"], "responses": ["You can schedule an appointment by calling our clinic at [phone number] or using our online booking system on our website."]}
+    ]
+}
